@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+
+title: "PEML-reproducibility"
+version: 0.1.0
+type: software
+url: "https://github.com/Superlunary-c/PEML-reproducibility"
+repository-code: "https://github.com/Superlunary-c/PEML-reproducibility"
+license: MIT
+abstract: >-
+  Code and reproducibility materials for the Neural Networks submission on
+  PEML. This repository contains dataset
+  construction utilities and the ImageNet-100 subset definition used in the
+  paper.
+authors:
+  - family-names: "Cheon"Cheon
+    given-names: "Byung Do"
+  - family-names: "Yu"
+    given-names: "Jeongmin"
+  - family-names: "Kim"
+    given-names: "Jungeun"
+  - family-names: "Kim"
+    given-names: "Ha Young"
+keywords:
+  - deep metric learning
+  - representation learning
+  - reproducibility
+  - imagenet-100
+  - cifar-100
+preferred-citation:
+  type: article
+  title: "[Replace with the final paper title]"
+  authors:
+    - family-names: "Author1FamilyName"
+      given-names: "Author1GivenName"
+    - family-names: "Author2FamilyName"
+      given-names: "Author2GivenName"
+    - family-names: "Author3FamilyName"
+      given-names: "Author3GivenName"
+    - family-names: "Author4FamilyName"
+      given-names: "Author4GivenName"
+  journal: "Neural Networks"
+  year: 2026
