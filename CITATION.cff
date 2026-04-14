@@ -14,12 +14,6 @@ abstract: >-
 authors:
   - family-names: "Cheon"Cheon
     given-names: "Byung Do"
-  - family-names: "Yu"
-    given-names: "Jeongmin"
-  - family-names: "Kim"
-    given-names: "Jungeun"
-  - family-names: "Kim"
-    given-names: "Ha Young"
 keywords:
   - deep metric learning
   - representation learning
@@ -28,15 +22,15 @@ keywords:
   - cifar-100
 preferred-citation:
   type: article
-  title: "[Replace with the final paper title]"
+  title: "A Lagrangian-Inspired Force-Based Loss for Deep Metric Learning"
   authors:
-    - family-names: "Author1FamilyName"
-      given-names: "Author1GivenName"
-    - family-names: "Author2FamilyName"
-      given-names: "Author2GivenName"
-    - family-names: "Author3FamilyName"
-      given-names: "Author3GivenName"
-    - family-names: "Author4FamilyName"
-      given-names: "Author4GivenName"
+  - family-names: "Cheon"Cheon
+    given-names: "Byung Do"
+  - family-names: "Yu"
+    given-names: "Jeongmin"
+  - family-names: "Kim"
+    given-names: "Jungeun"
+  - family-names: "Kim"
+    given-names: "Ha Young"
   journal: "Neural Networks"
   year: 2026
